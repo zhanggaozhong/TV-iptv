@@ -18,7 +18,6 @@ https://gh-proxy.org/https://raw.githubusercontent.com/zhanggaozhong/TV-iptv/ref
 ## 使用说明
 1.  将以上地址复制到支持 M3U 格式的 IPTV 播放器中
 2.  推荐使用国内加速地址，加载更稳定
-3.  节目单（EPG）已同步更新，可正常回看当天内容
 
 ---
 

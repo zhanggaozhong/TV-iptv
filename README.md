@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/zhanggaozhong/TV-iptv/refs/heads/main/dianshit
 ```
 国内已加速-精简分组优化地址：
 ```
-https://gh-proxy.com/https://raw.githubusercontent.com/zhanggaozhong/TV-iptv/refs/heads/main/dianshitv.txt
+https://gh-proxy.org/https://raw.githubusercontent.com/zhanggaozhong/TV-iptv/refs/heads/main/dianshitv.txt
 ```
 央视卫视地方台直播源地址：
 ```

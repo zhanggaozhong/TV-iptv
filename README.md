@@ -25,13 +25,6 @@ https://gist.githubusercontent.com/zhanggaozhong/803514bfaaf244d6f97dcec3a265c72
 
 ---
 
-## 构建（可选）
-若需要手动构建相关镜像，可以使用以下命令：
-docker build -t tv-iptv .
-plaintext
-
----
-
 # 免责声明
 
 > [!IMPORTANT]
